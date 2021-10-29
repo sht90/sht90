@@ -17,6 +17,8 @@ I unfortunately can't discuss many specific projects I did at Neya, but I got to
 
 Another fun and notable project I did was in Pitt's Mechanical Measurements 2 class. Groups had free reign to design and execute a research project, and my three groupmates and I performed an analysis of 3D-printed transmissions -- especially focused on whether "Paradox Gears" (as demonstrated [here](https://www.youtube.com/watch?v=qGAnmRb66s0)) held up against their more common counterparts: pulleys and spur gears. Perhaps obviously, the paradox gears were the least efficient; but my group used thorough methodology, and our presentation was a class favorite.
 
+I also design original puzzles, some of which are accessible on my github. [This](https://github.com/sht90/flip-dot) is the repository for my FlipDot puzzle, an original twisty puzzle. It has a link to my CAD file for it in the Readme, and a playable simulator for the puzzle in Python. I also made [this Split Decisions puzzle](https://github.com/sht90/split-decisions/blob/main/SplitDecB01.png) using only tools that I made myself, in Python. I have code (and answers) for my Split Decisions puzzles in [this repository](https://github.com/sht90/split-decisions).
+
 ## General Interests
 
 I really like solving problems with math and science -- I especially like geometry, mechanics, and coding. These broad interests have taken me pretty far during my education, and I look forward to seeing where they take me as a young professional.
