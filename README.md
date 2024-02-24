@@ -14,8 +14,11 @@ I graduated from the University of Pittsburgh in December 2020 with a BS in Mech
 ## General Interests
 
 I have all sorts of hobbies and interests. I've recently gotten into rock climbing (mostly indoors), yoga, and crocheting. But my three favorite, most bedrock interests are probably music, puzzles, and cooking.
+
 I love making playlists and talking about music -- I used to be a DJ at [my college's radio station](https://wpts.pitt.edu/). This is my [Spotify profile](https://open.spotify.com/user/12182017070?si=f895136d22d34278). I also played trombone, baritone, and tuba in high school, although I don't play much anymore.
+
 As for puzzles, they provide me with a great outlet to use my engineering brain outside of work hours. I have a small collection of Rubik's-style puzzles (a.k.a. "twisty" puzzles), and some of my favorite personal projects have been designing word puzzles and mechanical puzzles.
+
 Cooking is obviously a bit of a necessity, but ever since reading Salt Fat Acid Heat by Samin Nosrat, I've had a lot more fun experimenting in the kitchen. I don't consider myself to be a super good cook yet, but I've improved a lot.
 
 # Contact Me
